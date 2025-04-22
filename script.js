@@ -1,4 +1,4 @@
 function sayHello() {
-    alert("wow");
+    alert("eat my shorts");
   }
   
